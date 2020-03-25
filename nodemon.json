@@ -1,0 +1,8 @@
+{
+	"watch": ["server.js", "server"],
+	"ignore": ["src", "node_modules"],
+	"env": {
+		"MONGO_USER": "webUser",
+		"MONGO_PASS": "@A5cuEJynq@U"
+	}
+}
